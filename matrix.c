@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	printf("Hello Boss please commit");
+	printf("Hello Boss this is second");
 	int si;
 	scanf("%d",&si);
 	int i,j,len=si*2,k=0;
